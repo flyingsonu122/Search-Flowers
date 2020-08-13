@@ -1,3 +1,3 @@
 # Flower Image Search
 
-Click [Here](https://priceless-flowers.netlify.app/) to see live Demo
+Live Demo on [https://priceless-flowers.netlify.app/](https://priceless-flowers.netlify.app/) 
